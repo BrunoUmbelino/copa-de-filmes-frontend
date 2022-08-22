@@ -1,0 +1,17 @@
+.SelectionPage {
+  width: 100%;
+  min-height: 100%;
+}
+
+.SelectionPage-Header {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(235, 42, 42);
+  color: rgb(240, 238, 238);
+
+  font-size: 1.4rem;
+}
